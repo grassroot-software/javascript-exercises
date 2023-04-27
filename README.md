@@ -1,12 +1,12 @@
 # JavaScript Exercises
 
-These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
+These JavaScript exercises are intended to complement the JavaScript content on Grassroot Project  . They should only be done when instructed during the course of the curriculum.
 
 **Note:** The `generator-exercise` file is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
 
 ## Contributing
 
-If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
+If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main Grassroot repo.
 
 ## How To Use These Exercises
 
@@ -25,7 +25,7 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 4. Some of the exercises have test conditions defined in their spec file as `test.skip` compared to `test`. This is purposeful. After you pass one `test`, you will change the next `test.skip` to `test` and test your code again. You'll do this until all conditions are satisfied. **All tests must pass at the same time**, and you should not have any `test.skip` instances by the time you finish an exercise.
 5. Once you successfully finish an exercise, check the `solutions` directory within each exercise to compare it with yours.
    - You should not be checking the solution for an exercise until you finish it!
-   - Keep in mind that TOP's solution is not the only solution. Generally as long as all of the tests pass, your solution should be fine.
+   - Keep in mind that Grassroot's solution is not the only solution. Generally as long as all of the tests pass, your solution should be fine.
 6. Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
 
 **Note**: Due to the way Jest handles failed tests, it may return an exit code of 1 if any tests fail. NPM will interpret this as an error and you may see some `npm ERR!` messages after Jest runs. You can ignore these, or run your test with `npm test exerciseName.spec.js --silent` to supress the errors.

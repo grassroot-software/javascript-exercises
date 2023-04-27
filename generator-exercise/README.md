@@ -1,5 +1,5 @@
 # generator-exercise [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> generates boilerplate for The Odin Project exercises
+> generates boilerplate for Grassroot Project exercises
 
 ## Installation
 
